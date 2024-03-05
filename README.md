@@ -14,7 +14,7 @@ In the realm of data modeling, I crafted an Entity Relationship Diagram (ERD) en
 The diagram is labelled as: QuickDBD-ERD.png
 
 Data Engineering:
-The schema of the code can be found labelled: schema.sql or QuickDBD-ERD.sql. The latter was exported from the QuickDBD website when making the diagram.
+The schema of the code can be found labelled: QuickDBD-ERD.sql. The latter was exported from the QuickDBD website when making the diagram.
 
 Please adhere to the following sequence of steps:
 1. Begin by executing all the scripts to create the tables.
